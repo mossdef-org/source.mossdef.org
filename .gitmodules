@@ -54,3 +54,6 @@
 [submodule "chrome-adblock-fast"]
 	path = chrome-adblock-fast
 	url = git@github.com:mossdef-org/chrome-adblock-fast.git
+[submodule "moci-addon-adblock-fast"]
+	path = moci-addon-adblock-fast
+	url = git@github.com:mossdef-org/moci-addon-adblock-fast.git
