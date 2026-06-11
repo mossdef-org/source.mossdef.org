@@ -47,7 +47,7 @@
 	branch = main
 [submodule "mwan4"]
 	path = mwan4
-	url = https://github.com/stangri/mwan4.git
+	url = git@github.com:mossdef-org/mwan4.git
 [submodule "static-device-names"]
 	path = static-device-names
 	url = https://github.com/mossdef-org/static-device-names
