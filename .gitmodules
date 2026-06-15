@@ -57,3 +57,6 @@
 [submodule "moci-addon-adblock-fast"]
 	path = moci-addon-adblock-fast
 	url = git@github.com:mossdef-org/moci-addon-adblock-fast.git
+[submodule "pia-wg-monitor"]
+	path = pia-wg-monitor
+	url = git@github.com:stangri/pia-wg-monitor.git
