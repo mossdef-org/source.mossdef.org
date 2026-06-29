@@ -60,3 +60,9 @@
 [submodule "pia-wg-monitor"]
 	path = pia-wg-monitor
 	url = git@github.com:stangri/pia-wg-monitor.git
+[submodule "newsboat"]
+	path = newsboat
+	url = git@github.com:mossdef-org/newsboat.git
+[submodule "stfl"]
+	path = stfl
+	url = git@github.com:mossdef-org/stfl.git
