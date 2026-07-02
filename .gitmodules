@@ -1,30 +1,30 @@
 [submodule "netclient"]
 	path = netclient
-	url = git@github.com:stangri/netclient.git
+	url = git@github.com:mossdef-org/netclient.git
 [submodule "adblock-fast"]
 	path = adblock-fast
-	url = git@github.com:stangri/adblock-fast.git
+	url = git@github.com:mossdef-org/adblock-fast.git
 [submodule "https-dns-proxy"]
 	path = https-dns-proxy
-	url = git@github.com:stangri/https-dns-proxy.git
+	url = git@github.com:mossdef-org/https-dns-proxy.git
 [submodule "luci-app-adblock-fast"]
 	path = luci-app-adblock-fast
-	url = git@github.com:stangri/luci-app-adblock-fast.git
+	url = git@github.com:mossdef-org/luci-app-adblock-fast.git
 [submodule "luci-app-advanced-reboot"]
 	path = luci-app-advanced-reboot
-	url = git@github.com:stangri/luci-app-advanced-reboot.git
+	url = git@github.com:mossdef-org/luci-app-advanced-reboot.git
 [submodule "luci-app-https-dns-proxy"]
 	path = luci-app-https-dns-proxy
-	url = git@github.com:stangri/luci-app-https-dns-proxy.git
+	url = git@github.com:mossdef-org/luci-app-https-dns-proxy.git
 [submodule "luci-app-pbr"]
 	path = luci-app-pbr
-	url = git@github.com:stangri/luci-app-pbr.git
+	url = git@github.com:mossdef-org/luci-app-pbr.git
 [submodule "pbr"]
 	path = pbr
-	url = git@github.com:stangri/pbr.git
+	url = git@github.com:mossdef-org/pbr.git
 [submodule "sunwait"]
 	path = sunwait
-	url = git@github.com:stangri/sunwait.git
+	url = git@github.com:mossdef-org/sunwait.git
 	branch = 0.9.1
 [submodule "stangri"]
 	path = stangri
@@ -37,13 +37,13 @@
 	url = https://github.com/stangri/remote-controller
 [submodule "luci-app-yaaw"]
 	path = luci-app-yaaw
-	url = git@github.com:stangri/luci-app-yaaw.git
+	url = git@github.com:mossdef-org/luci-app-yaaw.git
 [submodule "stangri.github.io"]
 	path = stangri.github.io
 	url = git@github.com:stangri/stangri.github.io.git
 [submodule "w1700k-wireless-regdb"]
 	path = w1700k-wireless-regdb
-	url = git@github.com:stangri/w1700k-wireless-regdb.git
+	url = git@github.com:mossdef-org/w1700k-wireless-regdb.git
 	branch = main
 [submodule "mwan4"]
 	path = mwan4
