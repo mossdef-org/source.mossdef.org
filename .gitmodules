@@ -54,9 +54,9 @@
 [submodule "chrome-adblock-fast"]
 	path = chrome-adblock-fast
 	url = git@github.com:mossdef-org/chrome-adblock-fast.git
-[submodule "moci-addon-adblock-fast"]
-	path = moci-addon-adblock-fast
-	url = git@github.com:mossdef-org/moci-addon-adblock-fast.git
+[submodule "moci-app-adblock-fast"]
+	path = moci-app-adblock-fast
+	url = git@github.com:mossdef-org/moci-app-adblock-fast.git
 [submodule "pia-wg-monitor"]
 	path = pia-wg-monitor
 	url = git@github.com:stangri/pia-wg-monitor.git
