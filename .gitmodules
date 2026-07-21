@@ -66,3 +66,7 @@
 [submodule "stfl"]
 	path = stfl
 	url = git@github.com:mossdef-org/stfl.git
+[submodule "https_dns_proxy"]
+	path = https_dns_proxy
+	url = git@github.com:mossdef-org/https_dns_proxy.git
+	branch = wan-flap-sigusr1
